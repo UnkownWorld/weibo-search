@@ -40,9 +40,9 @@ END_DATE = '2024-03-03'
 # 建议数值大小设置在40到50之间。
 FURTHER_THRESHOLD = 46
 # 图片文件存储路径
-IMAGES_STORE = './'
+IMAGES_STORE = '/kaggle/working/'
 # 视频文件存储路径
-FILES_STORE = './'
+FILES_STORE = '/kaggle/working/'
 # 配置MongoDB数据库
 # MONGO_URI = 'localhost'
 # 配置MySQL数据库，以下为默认配置，可以根据实际情况更改，程序会自动生成一个名为weibo的数据库，如果想换其它名字请更改MYSQL_DATABASE值
