@@ -12,7 +12,7 @@ DEFAULT_REQUEST_HEADERS = {
     'Accept':
     'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
     'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8,en-US;q=0.7',
-    'cookie': 'your cookie'
+    'cookie': 'This is a close-up photo of a woman with black hair and black eyes. Her facial expression appears somewhat serious, with her lips slightly parted as if she is talking or in thought. She is wearing a white top with a black jacket over it, and a blue shirt can be seen at the collar. The background is a city street at night, with some blurred lights and buildings.'
 }
 ITEM_PIPELINES = {
     'weibo.pipelines.DuplicatesPipeline': 300,
